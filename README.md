@@ -28,7 +28,7 @@ Reverse the scale, to test whether e.g. the 8B Instruct model chooses "0" instea
 ### Qwen2
 
 [qwen2](https://github.com/angelajt/llm-language-bias/blob/main/qwen2.ipynb)
-This model supports Chinese (Mandarin). Also,the we can compare the results to those of models developed in the US (GPT, Llama...).
+This model supports Chinese (Mandarin). Also, we can compare the results to those of models developed in the US (GPT, Llama...).
 - English
 - Spanish
 - Mandarin
