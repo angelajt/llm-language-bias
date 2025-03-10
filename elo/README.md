@@ -3,4 +3,4 @@ between two foundations.
 
 Then I prompted Llama 3.1 with roughly 300 of these scenarios.
 
-[ELO score chart](elo.png)
+![ELO score chart](elo.png)
